@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+env/
+.venv/
+.env
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+videos/
+*.mp4
