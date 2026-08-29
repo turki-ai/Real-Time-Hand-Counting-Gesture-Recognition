@@ -17,7 +17,7 @@ A lightweight, real-time hand gesture recognition system designed to classify dy
 
 ## Project Structure
 ```text
-├── gesture_rec.py                 # Main execution file (Live stream & inference)
+├── main.py                        # Main execution file (Live stream & inference)
 ├── hand_video_data_collector.py   # Extracts landmarks from videos & applies augmentation
 ├── model_generator.py             # Builds, trains, and converts the Neural Network to TFLite
 ├── drawing.py                     # Utility functions for rendering landmarks and logic handling
